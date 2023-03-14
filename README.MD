@@ -6,7 +6,7 @@ s
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TeenKonnets](teenkonnect.netlify.app)**
+- 🔭 I’m currently working on **[TeenKonnects](https://www.teenkonnects.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -56,9 +56,6 @@ s
   <a href="https://github.com/tayyibGbondo/github-readme-stats"><img alt="tayyibGbondo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
